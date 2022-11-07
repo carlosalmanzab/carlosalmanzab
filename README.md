@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/carlosalmanzab/carlosalmanzab/main/banner/image%20(1).png" alt="banner" />
-
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">I am an enthusiastic Backend Developer from Colombia</h3>
 
